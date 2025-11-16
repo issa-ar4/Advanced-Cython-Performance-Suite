@@ -1,0 +1,38 @@
+# Cython generated files
+*.c
+*.cpp
+*.so
+*.pyd
+*.html
+build/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Benchmark results
+benchmark_results_*.png
+benchmark_results_*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+*.egg
